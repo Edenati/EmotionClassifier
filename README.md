@@ -14,7 +14,6 @@ With the use of the aforementioned functions, it is possible to generate a custo
 
 ### Screens 
 <img width="436" alt="image" src="https://user-images.githubusercontent.com/81075338/219955029-f8b5659f-8745-4508-a58d-4294436a56cd.png">
-<img width="344" alt="image" src="https://user-images.githubusercontent.com/81075338/219955842-58508496-29aa-4540-b4eb-757589f710fa.png">
 
 ## User guide 
 ### Software Environment:
